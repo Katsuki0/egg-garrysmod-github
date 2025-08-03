@@ -45,17 +45,12 @@ Pterodactyl, Docker, Bash.
 
 ### Установка
 
-TO DO
-
-## Использование
-
-TO DO
-
+Admin Area -> Eggs -> Import Egg
 
 ## Авторы
 
-* **Кацуки (katsukidev/katsuki)** - *random prick* - [Кацуки (katsukidev/katsuki)](https://github.com/Katsuki0)
+* **Кацуки (katsukidev/katsuki)** - [Кацуки (katsukidev/katsuki)](https://github.com/Katsuki0)
 
-## Спасибки
+## Спасибо:
 
 * [Pavel (aka refoseldev)](https://github.com/refoseldev)
